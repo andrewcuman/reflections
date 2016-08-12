@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 It permits you to decide which file to add to the next commit, and you have the possibility to leave some files
 in your working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You put within staging area the files you consider make sense for the next commit.
