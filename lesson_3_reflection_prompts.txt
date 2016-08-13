@@ -6,3 +6,8 @@ without having to wait for your computer.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You have the opportunity to decide if the modifications you did are an incremental logic unit.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks works only on GitHub website, whereas clone works on local machine to clone a local repository.
+You can also use clone to copy a remote repository, in this case an automatic origin remote is added for you.
+Branches are only use in local environment.
