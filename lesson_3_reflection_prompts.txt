@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+For instance, if you work on another device, you could connect to your GitHub account and edit the repository from there
+without having to wait for your computer.
